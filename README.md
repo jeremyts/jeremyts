@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeremy and I love coding and producing applications that fill a gap in the technologies I deploy and support that enhance the user experience. Absolutely anyone can code, and my passion is to drive this within the IT Pro community.
+My name is Jeremy and I love coding and producing applications that fill a gap in the technologies I deploy and support that enhance the user experience. Coding for me is about problem solving. Absolutely anyone can code, and my passion is to drive this within the IT Pro community.
 
 🔭 I’m currently working on...
 - Computer Restart Service to manage the computer uptime (designed for Session Hosts, but can be used on any computer/VM).
