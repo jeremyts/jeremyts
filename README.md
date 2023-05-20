@@ -10,6 +10,8 @@ My name is Jeremy and I love coding and producing applications that fill a gap i
 
 💬 Ask me about anything.
 
+I'm currently remote working around the UK from 15th May to 14th July 2023.
+
 📫 You can reach me on e-mail: jeremy@jhouseconsulting.com
 
 Thanks for visiting!
