@@ -6,7 +6,7 @@ My name is Jeremy and I love coding and producing applications that fill a gap i
 - Computer Restart Service to manage the computer uptime (designed for Session Hosts, but can be used on any computer/VM).
 - VDA Helper Service to manage the starting of the service.
 - Self-Service Session Reset Tool for the Help Desk.
-- Citrix Workspace Swiss Army Knife (a tool to help users start Explorer and other utilities from a Seamless App session)
+- App Companion Toolbox (a tool to help users start Explorer and other utilities from a Seamless App session)
 
 💬 Ask me about anything.
 
